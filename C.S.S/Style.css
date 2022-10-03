@@ -1,0 +1,43 @@
+*{
+  font-family: Trebuchet MS;
+}
+
+div.sidebar {
+  background-color: #87CEEB;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.sidebar a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.sidebar a:hover {
+  background-color: #0000FF;
+}
+
+
+#content {
+    position: relative;
+}
+
+}
+
+img {
+position: absolute;
+top: 0px;
+right: 0px;
+}
+h2.TextW {
+  border: 5px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
+.header {
+  background-color: #87CEEB;
+  padding: 10px;
+}
